@@ -5,7 +5,7 @@
 body {
     font: 18px verdana,sans-serif; 
     margin: 0px;
-	padding : 0px;
+    padding : 0px;
 }
 
 .wilaya{
@@ -80,7 +80,7 @@ body {
 .footer{
 	width: 700px;
 	height: 50px;
-	background: gray;
+	background: gold;
 	border-bottom-right-radius: 25px;
 	border-bottom-left-radius: 25px;
 	display:table-cell;
