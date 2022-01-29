@@ -80,7 +80,7 @@ body {
 .footer{
 	width: 700px;
 	height: 50px;
-	background: gold;
+	background: black;
 	border-bottom-right-radius: 25px;
 	border-bottom-left-radius: 25px;
 	display:table-cell;
